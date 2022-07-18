@@ -1,0 +1,473 @@
+0,Stranger Things,Drama,Fantasy,Horror
+1,Thor: Love and Thunder,Action,Adventure,Comedy
+2,The Boys,Action,Crime,Drama
+3,The Umbrella Academy,Action,Adventure,Comedy
+4,Minions: The Rise of Gru,Animation,Adventure,Comedy
+5,Westworld,Drama,Mystery,Sci-Fi
+6,Doctor Strange in the Multiverse of Madness,Action,Adventure,Fantasy
+7,Ms. Marvel,Action,Adventure,Comedy
+8,Jurassic World Dominion,Action,Adventure,Sci-Fi
+9,Obi-Wan Kenobi,Action,Adventure,Sci-Fi
+10,Star Trek: Strange New Worlds,Action,Adventure,Sci-Fi
+11,Everything Everywhere All at Once,Action,Adventure,Comedy
+12,The Orville,Adventure,Comedy,Drama
+13,Independence Day,Action,Adventure,Sci-Fi
+14,Spiderhead,Action,Crime,Drama
+15,Lightyear,Animation,Action,Adventure
+16,Rocketry: The Nambi Effect,Action,Biography,Drama
+17,NOPE,Horror,Mystery,Sci-Fi
+19,Manifest,Drama,Mystery,Sci-Fi
+20,Severance,Drama,Mystery,Sci-Fi
+22,Thor: Ragnarok,Action,Adventure,Comedy
+23,The Undeclared War,Drama,Sci-Fi,Thriller
+24,Spider-Man: No Way Home,Action,Adventure,Fantasy
+25,The Mandalorian,Action,Adventure,Fantasy
+26,"Love, Death & Robots",Animation,Short,Action
+27,The Flash,Action,Adventure,Drama
+29,Crimes of the Future,Drama,Horror,Sci-Fi
+30,Morbius,Action,Adventure,Horror
+31,Doctor Who,Adventure,Drama,Sci-Fi
+32,Black Mirror,Drama,Mystery,Sci-Fi
+33,The Sandman,Drama,Fantasy,Horror
+34,Jurassic Park,Action,Adventure,Sci-Fi
+35,American Horror Story,Drama,Horror,Sci-Fi
+36,Avatar: The Way of Water,Action,Adventure,Sci-Fi
+37,The Time Traveler's Wife,Drama,Fantasy,Romance
+38,Lost,Adventure,Drama,Fantasy
+39,Minions,Animation,Adventure,Comedy
+40,Halo,Action,Adventure,Sci-Fi
+41,Dune: Part One,Action,Adventure,Drama
+42,Ghostbusters: Afterlife,Adventure,Comedy,Fantasy
+43,Avengers: Endgame,Action,Adventure,Drama
+44,Rick and Morty,Animation,Adventure,Comedy
+46,Dark,Crime,Drama,Mystery
+47,Star Wars: The Clone Wars,Animation,Action,Adventure
+48,The X Files,Crime,Drama,Mystery
+49,Eternals,Action,Adventure,Fantasy
+0,The Mist,Horror,Sci-Fi,Thriller
+1,Hellboy,Action,Adventure,Fantasy
+2,Despicable Me,Animation,Adventure,Comedy
+3,Star Wars,Action,Adventure,Fantasy
+4,Star Trek: Discovery,Action,Adventure,Drama
+5,Sonic the Hedgehog 2,Action,Adventure,Comedy
+6,Superman & Lois,Action,Adventure,Drama
+7,Inception,Action,Adventure,Sci-Fi
+8,Free Guy,Action,Adventure,Comedy
+9,The Book of Boba Fett,Action,Adventure,Sci-Fi
+10,Baymax!,Animation,Short,Action
+11,WandaVision,Action,Comedy,Drama
+12,Invincible,Animation,Action,Adventure
+13,Mad God,Animation,Fantasy,Horror
+14,Paper Girls,Drama,Fantasy,Horror
+15,Interstellar,Adventure,Drama,Sci-Fi
+16,DC League of Super-Pets,Animation,Action,Adventure
+17,Independence Day: Resurgence,Action,Adventure,Sci-Fi
+18,Titans,Action,Adventure,Crime
+19,See,Action,Drama,Sci-Fi
+20,The 100,Drama,Mystery,Sci-Fi
+21,The Twilight Zone,Drama,Fantasy,Horror
+22,Jurassic World,Action,Adventure,Sci-Fi
+23,Night Sky,Adventure,Drama,Fantasy
+24,Jurassic World: Fallen Kingdom,Action,Adventure,Sci-Fi
+25,Black Adam,Action,Fantasy,Sci-Fi
+26,Black Panther: Wakanda Forever,Action,Adventure,Drama
+27,Star Wars: Episode I - The Phantom Menace,Action,Adventure,Fantasy
+28,Star Trek,Action,Adventure,Sci-Fi
+29,Avatar,Action,Adventure,Fantasy
+30,Arcane: League of Legends,Animation,Action,Adventure
+31,Star Trek: The Next Generation,Action,Adventure,Sci-Fi
+32,Daredevil,Action,Crime,Drama
+33,Doctor Strange,Action,Adventure,Fantasy
+34,Avengers: Infinity War,Action,Adventure,Sci-Fi
+35,Loki,Action,Adventure,Fantasy
+36,Star Wars: Episode IX - The Rise of Skywalker,Action,Adventure,Fantasy
+37,The Expanse,Drama,Mystery,Sci-Fi
+39,Back to the Future,Adventure,Comedy,Sci-Fi
+40,Don't Look Up,Comedy,Drama,Sci-Fi
+41,Moonfall,Action,Adventure,Sci-Fi
+43,The Adam Project,Action,Adventure,Comedy
+44,Black Widow,Action,Adventure,Sci-Fi
+45,The Suicide Squad,Action,Adventure,Comedy
+46,Guardians of the Galaxy,Action,Adventure,Comedy
+47,Shining Girls,Crime,Drama,Mystery
+48,Star Trek: Picard,Action,Adventure,Drama
+49,Blasted,Action,Comedy,Sci-Fi
+0,Resident Evil: Welcome to Raccoon City,Action,Horror,Sci-Fi
+1,Smallville,Action,Adventure,Drama
+2,Overlord,Action,Horror,Sci-Fi
+3,Star Wars: Episode III - Revenge of the Sith,Action,Adventure,Fantasy
+4,Shang-Chi and the Legend of the Ten Rings,Action,Adventure,Fantasy
+5,Star Wars: Episode VI - Return of the Jedi,Action,Adventure,Fantasy
+6,Quantum Leap,Action,Adventure,Drama
+7,Blade Runner 2049,Action,Drama,Mystery
+8,Suicide Squad,Action,Adventure,Fantasy
+9,Arrow,Action,Adventure,Crime
+10,Fear the Walking Dead,Drama,Horror,Sci-Fi
+11,Captain America: The First Avenger,Action,Adventure,Sci-Fi
+12,Stargåte SG-1,Action,Adventure,Drama
+13,Agents of S.H.I.E.L.D.,Action,Adventure,Drama
+14,Tenet,Action,Sci-Fi,Thriller
+15,Peacemaker,Action,Adventure,Comedy
+16,Motherland: Fort Salem,Drama,Fantasy,Sci-Fi
+17,She-Hulk: Attorney at Law,Action,Adventure,Comedy
+18,The Midwich Cuckoos,Drama,Horror,Mystery
+19,Rollerball,Action,Sci-Fi,Sport
+20,Despicable Me 3,Animation,Adventure,Comedy
+21,The Hunger Games,Action,Adventure,Sci-Fi
+22,Person of Interest,Action,Crime,Drama
+23,Diabolical,Animation,Short,Action
+24,The Thing,Horror,Mystery,Sci-Fi
+25,Fringe,Drama,Mystery,Sci-Fi
+26,Divergent,Action,Adventure,Mystery
+27,Hawkeye,Action,Adventure,Crime
+28,Despicable Me 2,Animation,Adventure,Comedy
+29,Spider-Man,Action,Adventure,Sci-Fi
+30,Mad Max: Fury Road,Action,Adventure,Sci-Fi
+31,Star Trek: Deep Space Nine,Action,Adventure,Drama
+32,Harley Quinn,Animation,Action,Adventure
+33,The Munsters,Comedy,Family,Fantasy
+35,Spider-Man: Homecoming,Action,Adventure,Sci-Fi
+36,Deadpool,Action,Adventure,Comedy
+37,Aliens,Action,Adventure,Sci-Fi
+38,Star Wars: Episode II - Attack of the Clones,Action,Adventure,Fantasy
+39,Blade Runner,Action,Drama,Sci-Fi
+40,Black Panther,Action,Adventure,Sci-Fi
+41,Rogue One,Action,Adventure,Sci-Fi
+42,The Avengers,Action,Adventure,Sci-Fi
+43,Star Wars: Rebels,Animation,Action,Adventure
+44,The Empire Strikes Back,Action,Adventure,Fantasy
+45,Ghostbusters,Action,Comedy,Fantasy
+46,Prey,Action,Drama,Horror
+47,Star Trek: Voyager,Action,Adventure,Sci-Fi
+48,Star Wars: Episode VIII - The Last Jedi,Action,Adventure,Fantasy
+49,From,Drama,Horror,Mystery
+0,Gotham,Action,Crime,Drama
+1,Fantastic Four,Action,Adventure,Sci-Fi
+2,Captain Marvel,Action,Adventure,Sci-Fi
+3,Venom: Let There Be Carnage,Action,Adventure,Sci-Fi
+4,What If...?,Animation,Action,Adventure
+5,Star Wars: Episode VII - The Force Awakens,Action,Adventure,Sci-Fi
+6,Resident Evil,Action,Horror,Sci-Fi
+8,Idiocracy,Adventure,Comedy,Sci-Fi
+9,The Tomorrow War,Action,Adventure,Drama
+10,Doom Patrol,Action,Adventure,Comedy
+12,The Prestige,Drama,Mystery,Sci-Fi
+13,Edge of Tomorrow,Action,Adventure,Sci-Fi
+14,Big Hero 6,Animation,Action,Adventure
+16,Watchmen,Action,Drama,Mystery
+17,Iron Man,Action,Adventure,Sci-Fi
+18,Spider-Man: Into the Spider-Verse,Animation,Action,Adventure
+19,Oblivion,Action,Adventure,Sci-Fi
+20,Guardians of the Galaxy Vol. 2,Action,Adventure,Comedy
+21,Deadpool 2,Action,Adventure,Comedy
+22,The Amazing Spider-Man,Action,Adventure,Sci-Fi
+23,Gravity Falls,Animation,Action,Adventure
+24,Alita: Battle Angel,Action,Adventure,Sci-Fi
+25,Misfits,Comedy,Drama,Fantasy
+26,Jessica Jones,Action,Crime,Drama
+27,Guardians of the Galaxy Vol. 3,Action,Adventure,Comedy
+28,Dune,Action,Adventure,Sci-Fi
+29,Futurama,Animation,Adventure,Comedy
+30,Andor,Action,Adventure,Drama
+31,Dune: Part Two,Action,Adventure,Drama
+32,The Lost World: Jurassic Park,Action,Adventure,Sci-Fi
+33,Zack Snyder's Justice League,Action,Adventure,Fantasy
+34,Upload,Comedy,Mystery,Sci-Fi
+35,Firefly,Adventure,Drama,Sci-Fi
+36,Sonic the Hedgehog,Action,Adventure,Comedy
+37,"Roswell, New Mexico",Drama,Romance,Sci-Fi
+38,Transformers,Action,Adventure,Sci-Fi
+39,Ready Player One,Action,Adventure,Sci-Fi
+41,Station Eleven,Adventure,Drama,Fantasy
+42,Star Trek,Action,Adventure,Sci-Fi
+43,Boku no hîrô akademia,Animation,Action,Adventure
+44,The Fifth Element,Action,Adventure,Sci-Fi
+46,A Quiet Place Part II,Drama,Horror,Sci-Fi
+47,Resident Alien,Comedy,Drama,Mystery
+48,Supergirl,Action,Adventure,Drama
+49,Ex Machina,Drama,Sci-Fi,Thriller
+0,Godzilla vs. Kong,Action,Sci-Fi,Thriller
+1,Solo: A Star Wars Story,Action,Adventure,Sci-Fi
+2,Spider-Man 3,Action,Adventure,Sci-Fi
+3,The Hunger Games: The Ballad of Songbirds and Snakes,Action,Adventure,Drama
+4,The Return of the Living Dead,Comedy,Horror,Sci-Fi
+5,The World's End,Action,Comedy,Sci-Fi
+6,Starship Troopers,Action,Adventure,Sci-Fi
+7,About Time,Comedy,Drama,Fantasy
+8,Predator,Action,Adventure,Horror
+9,Donnie Darko,Drama,Mystery,Sci-Fi
+10,Arrival,Drama,Mystery,Sci-Fi
+11,Firestarter,Drama,Horror,Sci-Fi
+12,Annihilation,Adventure,Drama,Horror
+13,Legends of Tomorrow,Action,Adventure,Drama
+14,Eternal Sunshine of the Spotless Mind,Drama,Romance,Sci-Fi
+15,Spider-Man: Far from Home,Action,Adventure,Sci-Fi
+16,Snowpiercer,Action,Drama,Sci-Fi
+17,Captain America: The Winter Soldier,Action,Adventure,Sci-Fi
+18,The Flash,Action,Adventure,Fantasy
+19,Avengers: Age of Ultron,Action,Adventure,Sci-Fi
+20,Westworld,Action,Sci-Fi,Thriller
+21,The Marvels,Action,Adventure,Fantasy
+22,Mortal Engines,Action,Adventure,Fantasy
+23,The Stand,Adventure,Drama,Fantasy
+24,Adventure Time,Animation,Action,Adventure
+25,A Quiet Place,Drama,Horror,Sci-Fi
+27,Alien: Covenant,Horror,Sci-Fi,Thriller
+28,Captain America: Civil War,Action,Adventure,Sci-Fi
+29,RoboCop,Action,Crime,Sci-Fi
+30,Alias,Action,Drama,Mystery
+31,Aquaman,Action,Adventure,Fantasy
+32,Jigeum Uri Hakgyoneun,Action,Drama,Fantasy
+33,Raised by Wolves,Drama,Fantasy,Sci-Fi
+34,The Amazing Spider-Man 2,Action,Adventure,Sci-Fi
+35,Blindspot,Action,Crime,Drama
+36,Logan,Action,Drama,Sci-Fi
+37,Wonder Woman,Action,Adventure,Fantasy
+38,Total Recall,Action,Adventure,Sci-Fi
+39,Her,Drama,Romance,Sci-Fi
+41,The Man in the High Castle,Drama,Sci-Fi,Thriller
+42,The Falcon and the Winter Soldier,Action,Adventure,Drama
+43,Jurassic Park III,Action,Adventure,Sci-Fi
+44,Heroes,Drama,Fantasy,Sci-Fi
+45,Okja,Action,Adventure,Drama
+46,Power Rangers,Action,Adventure,Fantasy
+47,3rd Rock from the Sun,Comedy,Family,Sci-Fi
+48,Armageddon,Action,Adventure,Sci-Fi
+49,The Last of Us,Action,Adventure,Drama
+0,Prometheus,Adventure,Mystery,Sci-Fi
+1,Hellboy,Action,Adventure,Fantasy
+2,X-Men: Days of Future Past,Action,Adventure,Sci-Fi
+3,Mad Max,Action,Adventure,Sci-Fi
+4,Wayward Pines,Drama,Mystery,Sci-Fi
+5,The Martian,Adventure,Drama,Sci-Fi
+6,Altered Carbon,Action,Drama,Sci-Fi
+7,Man of Steel,Action,Adventure,Sci-Fi
+8,Passengers,Drama,Romance,Sci-Fi
+9,X-Men,Action,Adventure,Sci-Fi
+10,War of the Worlds,Action,Adventure,Sci-Fi
+12,Battlestar Galactica,Action,Adventure,Drama
+13,E.T. the Extra-Terrestrial,Adventure,Family,Sci-Fi
+14,Chaos Walking,Action,Adventure,Fantasy
+15,Lost in Space,Adventure,Drama,Family
+16,Battleship,Action,Adventure,Sci-Fi
+17,Brightburn,Drama,Horror,Mystery
+18,Enterprise,Action,Adventure,Drama
+19,Furiosa,Action,Adventure,Sci-Fi
+20,Star Wars: The Bad Batch,Animation,Action,Adventure
+21,Hagane no renkinjutsushi,Animation,Action,Adventure
+22,Infinite,Action,Sci-Fi,Thriller
+23,Venom,Action,Adventure,Sci-Fi
+24,Minority Report,Action,Crime,Mystery
+25,The New Mutants,Action,Horror,Mystery
+26,The Maze Runner,Action,Mystery,Sci-Fi
+27,Men in Black,Action,Adventure,Comedy
+28,Dredd,Action,Crime,Sci-Fi
+29,John Carter,Action,Adventure,Sci-Fi
+30,Sky High,Action,Comedy,Family
+31,Vivarium,Horror,Mystery,Sci-Fi
+32,Doctor Who,Adventure,Drama,Family
+33,In Time,Action,Sci-Fi,Thriller
+34,One Punch Man: Wanpanman,Animation,Action,Comedy
+35,Sense8,Drama,Mystery,Sci-Fi
+36,Titane,Drama,Horror,Sci-Fi
+37,The Hitchhiker's Guide to the Galaxy,Adventure,Comedy,Sci-Fi
+38,Transformers: Rise of the Beasts,Action,Adventure,Sci-Fi
+39,Mortal Kombat,Action,Adventure,Fantasy
+40,Spaceballs,Adventure,Comedy,Sci-Fi
+41,Spider-Man 2,Action,Adventure,Sci-Fi
+42,Freaks,Drama,Mystery,Sci-Fi
+43,The Hunger Games: Catching Fire,Action,Adventure,Drama
+44,Watchmen,Crime,Drama,Mystery
+45,Ant-Man,Action,Adventure,Comedy
+46,Stargirl,Action,Adventure,Crime
+47,Solar Opposites,Animation,Comedy,Sci-Fi
+48,V for Vendetta,Action,Drama,Sci-Fi
+49,28 Days Later...,Drama,Horror,Sci-Fi
+0,Archive 81,Drama,Horror,Mystery
+1,Terminator: Dark Fate,Action,Adventure,Sci-Fi
+2,Lucy,Action,Sci-Fi,Thriller
+3,Iron Man Three,Action,Adventure,Sci-Fi
+4,Vesper,Adventure,Drama,Sci-Fi
+5,Legion,Action,Drama,Sci-Fi
+6,The Time Traveler's Wife,Comedy,Drama,Fantasy
+7,The OA,Drama,Fantasy,Mystery
+9,Geostorm,Action,Sci-Fi,Thriller
+10,Untitled Super Mario Project,Animation,Adventure,Comedy
+11,Inhumans,Action,Adventure,Sci-Fi
+12,Regular Show,Animation,Action,Adventure
+13,Aquaman and the Lost Kingdom,Action,Adventure,Fantasy
+15,El hoyo,Horror,Sci-Fi,Thriller
+16,World War Z,Action,Adventure,Horror
+17,Iron Man 2,Action,Adventure,Sci-Fi
+18,The Incredible Hulk,Action,Adventure,Sci-Fi
+19,The Invisible Man,Drama,Horror,Mystery
+20,Elysium,Action,Drama,Sci-Fi
+22,Echo,Action,Adventure,Crime
+23,Face/Off,Action,Crime,Sci-Fi
+24,X-Men: Apocalypse,Action,Adventure,Sci-Fi
+25,The Nevers,Action,Drama,Fantasy
+26,Eureka,Adventure,Comedy,Drama
+27,The Lobster,Comedy,Drama,Romance
+28,Superman,Action,Adventure,Sci-Fi
+29,Dragon Ball Z,Animation,Action,Adventure
+30,Back to the Future Part II,Adventure,Comedy,Sci-Fi
+31,Vanilla Sky,Fantasy,Mystery,Romance
+32,Under the Skin,Drama,Horror,Mystery
+33,Stargate: Atlantis,Action,Adventure,Drama
+34,The Mitchells vs the Machines,Animation,Adventure,Comedy
+35,10 Cloverfield Lane,Drama,Horror,Mystery
+36,Black Clover,Animation,Action,Adventure
+37,Army of the Dead,Action,Crime,Horror
+38,Weird Science,Comedy,Romance,Sci-Fi
+39,Snowpiercer,Action,Sci-Fi,Thriller
+41,Fantastic Four,Action,Adventure,Sci-Fi
+42,Tron,Action,Adventure,Sci-Fi
+43,Strange World,Animation,Action,Adventure
+44,Life,Horror,Sci-Fi,Thriller
+45,La Brea,Drama,Mystery,Sci-Fi
+47,Transformers: The Last Knight,Action,Adventure,Sci-Fi
+48,The Fly,Drama,Horror,Sci-Fi
+49,Teenage Mutant Ninja Turtles,Action,Adventure,Comedy
+0,Justice League,Action,Adventure,Fantasy
+1,Fantastic Four,Action,Adventure,Fantasy
+2,Terminator Genisys,Action,Adventure,Sci-Fi
+3,Travelers,Drama,Mystery,Sci-Fi
+4,Batman: The Animated Series,Animation,Action,Adventure
+5,Warehouse 13,Drama,Mystery,Sci-Fi
+6,Love and Monsters,Action,Adventure,Comedy
+7,Babylon 5,Action,Adventure,Drama
+8,Ant-Man and the Wasp: Quantumania,Action,Adventure,Comedy
+9,WALL·E,Animation,Adventure,Family
+10,Young Justice,Animation,Action,Adventure
+13,X: First Class,Action,Adventure,Sci-Fi
+14,Rebel Moon,Adventure,Drama,Fantasy
+15,Overlord,Animation,Action,Adventure
+16,Samaritan,Action,Drama,Fantasy
+17,Gattaca,Drama,Sci-Fi,Thriller
+18,Incredibles 2,Animation,Action,Adventure
+19,Batman,Action,Adventure,Comedy
+21,Alice in Borderland,Action,Drama,Mystery
+22,Kaubôi bibappu,Animation,Action,Adventure
+23,The Legend of Korra,Animation,Action,Adventure
+24,Cloud Atlas,Drama,Mystery,Sci-Fi
+25,Deep Blue Sea,Action,Adventure,Sci-Fi
+26,Godzilla: King of the Monsters,Action,Adventure,Fantasy
+27,Deep Impact,Action,Drama,Sci-Fi
+28,Waterworld,Action,Adventure,Sci-Fi
+29,Jurassic World: Camp Cretaceous,Animation,Action,Adventure
+30,Transformers: Age of Extinction,Action,Adventure,Sci-Fi
+31,Resident Evil,Action,Horror,Sci-Fi
+32,The Predator,Action,Adventure,Sci-Fi
+33,Inside Job,Animation,Comedy,Fantasy
+34,The Meg,Action,Horror,Sci-Fi
+35,Blade,Action,Horror,Sci-Fi
+36,Event Horizon,Horror,Sci-Fi,Thriller
+37,Lilo & Stitch,Animation,Adventure,Comedy
+38,Batman v Superman: Dawn of Justice,Action,Adventure,Sci-Fi
+40,Stargate,Action,Adventure,Sci-Fi
+41,Made for Love,Comedy,Drama,Sci-Fi
+42,Reminiscence,Mystery,Romance,Sci-Fi
+43,Pacific Rim,Action,Adventure,Sci-Fi
+44,Lost in Space,Adventure,Comedy,Family
+45,X-Men: The Last Stand,Action,Adventure,Sci-Fi
+46,Ant-Man and the Wasp,Action,Adventure,Comedy
+47,Green Lantern,Action,Adventure,Sci-Fi
+48,G.I. Joe: The Rise of Cobra,Action,Adventure,Sci-Fi
+49,The Day After Tomorrow,Action,Adventure,Sci-Fi
+0,They Live,Action,Horror,Sci-Fi
+1,Sorry to Bother You,Comedy,Drama,Fantasy
+2,Contact,Drama,Mystery,Sci-Fi
+3,Clifford the Big Red Dog,Animation,Adventure,Comedy
+4,Snake Eyes: G.I. Joe Origins,Action,Adventure,Crime
+5,Predestination,Action,Drama,Sci-Fi
+6,Star Trek Beyond,Action,Adventure,Sci-Fi
+7,I Think We're Alone Now,Drama,Mystery,Sci-Fi
+9,Ahsoka,Action,Adventure,Drama
+10,Amphibia,Animation,Action,Adventure
+11,Star Trek: Lower Decks,Animation,Action,Adventure
+12,Hollow Man,Action,Horror,Sci-Fi
+13,Dark Phoenix,Action,Adventure,Sci-Fi
+14,Henry Danger,Action,Comedy,Family
+15,Planet of the Apes,Action,Adventure,Sci-Fi
+16,Glitch,Drama,Horror,Sci-Fi
+17,The Dead Don't Die,Comedy,Fantasy,Horror
+18,Deadpool 3,Action,Comedy,Sci-Fi
+19,Earth vs. the Flying Saucers,Action,Horror,Sci-Fi
+20,Mighty Morphin Power Rangers,Action,Adventure,Family
+21,Ad Astra,Adventure,Drama,Mystery
+22,Bill & Ted Face the Music,Adventure,Comedy,Music
+23,The Silencers,Action,Adventure,Comedy
+24,Bill & Ted's Excellent Adventure,Adventure,Comedy,Music
+25,The In Between,Drama,Romance,Sci-Fi
+26,Moon,Drama,Mystery,Sci-Fi
+27,I Am Legend,Action,Drama,Sci-Fi
+28,Insurgent,Action,Adventure,Sci-Fi
+29,Teenage Mutant Ninja Turtles,Animation,Action,Adventure
+30,Children of Men,Action,Drama,Sci-Fi
+31,The Butterfly Effect,Drama,Sci-Fi,Thriller
+32,Sweet Tooth,Action,Adventure,Drama
+33,Death Race,Action,Sci-Fi,Thriller
+34,Castle Rock,Drama,Fantasy,Horror
+35,The Chronicles of Riddick,Action,Adventure,Sci-Fi
+36,Bumblebee,Action,Adventure,Sci-Fi
+37,Batwoman,Action,Adventure,Crime
+38,Spy Kids,Action,Adventure,Comedy
+39,Finch,Adventure,Drama,Sci-Fi
+40,Twelve Monkeys,Mystery,Sci-Fi,Thriller
+41,The Island,Action,Sci-Fi,Thriller
+42,Invasion,Drama,Fantasy,Sci-Fi
+43,Glass,Drama,Horror,Sci-Fi
+44,Valerian and the City of a Thousand Planets,Action,Adventure,Fantasy
+45,Family Matters,Adventure,Comedy,Drama
+46,Farscape,Action,Adventure,Drama
+47,Super 8,Action,Mystery,Sci-Fi
+48,Hidden,Horror,Sci-Fi,Thriller
+49,Star Trek Into Darkness,Action,Adventure,Sci-Fi
+0,11.22.63,Drama,History,Mystery
+1,Cowboy Bebop,Action,Adventure,Comedy
+2,Orphan Black,Drama,Sci-Fi,Thriller
+3,Bienvenidos a Edén,Action,Drama,Sci-Fi
+5,I Am Not Okay with This,Comedy,Drama,Fantasy
+6,Escape from New York,Action,Adventure,Sci-Fi
+7,Secret Invasion,Action,Adventure,Drama
+8,Galaxy Quest,Adventure,Comedy,Sci-Fi
+9,Teenage Mutant Ninja Turtles,Action,Adventure,Comedy
+10,The Rocketeer,Action,Adventure,Family
+11,Looper,Action,Drama,Sci-Fi
+12,Under the Dome,Drama,Mystery,Sci-Fi
+13,The Last Ship,Action,Drama,Sci-Fi
+14,Timeless,Action,Adventure,Drama
+15,Robots,Animation,Adventure,Comedy
+16,Hellboy II: The Golden Army,Action,Adventure,Fantasy
+17,The Mist,Drama,Horror,Mystery
+18,Ender's Game,Action,Adventure,Sci-Fi
+19,Cocoon,Comedy,Drama,Sci-Fi
+20,The Purge,Horror,Sci-Fi,Thriller
+21,Repo Man,Action,Comedy,Crime
+22,Transformers: Dark of the Moon,Action,Adventure,Sci-Fi
+23,Small Soldiers,Action,Adventure,Comedy
+24,Mad Max 2,Action,Adventure,Sci-Fi
+25,Alien Resurrection,Action,Horror,Sci-Fi
+26,The Thing,Horror,Mystery,Sci-Fi
+27,Spriggan,Animation,Action,Adventure
+28,Spider-Man: Across the Spider-Verse,Animation,Action,Adventure
+29,War for the Planet of the Apes,Action,Adventure,Drama
+30,2012,Action,Adventure,Sci-Fi
+31,Men in Black: International,Action,Adventure,Comedy
+32,District 9,Action,Sci-Fi,Thriller
+33,Agent Carter,Action,Adventure,Crime
+34,Kraven the Hunter,Action,Adventure,Sci-Fi
+36,Iron Fist,Action,Adventure,Crime
+37,Serenity,Action,Adventure,Sci-Fi
+38,Atlantis: The Lost Empire,Animation,Action,Adventure
+39,Cloudy with a Chance of Meatballs,Animation,Adventure,Comedy
+40,Cloverfield,Action,Horror,Sci-Fi
+41,The Eden Theory,Horror,Sci-Fi,Thriller
+42,Made in Abyss,Animation,Action,Adventure
+43,Underwater,Action,Horror,Sci-Fi
+44,Jumper,Action,Adventure,Sci-Fi
+45,Wild Wild West,Action,Comedy,Sci-Fi
+46,The Stand,Adventure,Drama,Fantasy
+47,Dark Angel,Action,Drama,Mystery
+48,Wreck-It Ralph,Animation,Adventure,Comedy
+49,Logan's Run,Action,Adventure,Sci-Fi
