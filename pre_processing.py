@@ -5,14 +5,16 @@ def assign_Genre_values(df):
     #Converting p_values to set so that we get the core types of genre present on it.
     p_values=set(p_values)
     p_values=list(p_values)
+    # print(p_values)
 
     #Here we are creating dictionary to map the genre with corresponding key value.
     dictionary={}
     count=0
     for value in p_values:
+
         dictionary[value]=count
         count+=1
-    
+    # print(dictionary)
     # mapping the dataframe with their corresponding numerical value so that it can be processed easily 
     for index in range(0,df.shape[0]):
         try:
@@ -44,9 +46,9 @@ def construct_proper_dataframe():
 def pre_process_all():
     df=pd.DataFrame()
     df=construct_proper_dataframe()
-    print(df.head(50))
+    # print(df.head(50))
     return df
 
 
 #This is for testing purpose comment the function call whn not using
-#pre_process_all()
+pre_process_all()
